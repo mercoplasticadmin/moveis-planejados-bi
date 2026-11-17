@@ -1,0 +1,101 @@
+DATA,LOTE,TIPO_CHAPA,ESPESSURA_MM,COR_ACABAMENTO,FORNECEDOR,CHAPAS_ENTRADA,CHAPAS_CORTADAS,PECAS_PRODUZIDAS,PROJETO_CLIENTE,OPERADOR,SOBRA_PERCENTUAL,OBSERVACAO
+01/01/2025,L-0001,MDF,12,Cinza Sagrado,Arauco,15,13,82,Sala de Estar - Fernanda Melo,Carlos,15,Formato especial
+02/01/2025,L-0002,MDP,15,Carvalho Hanover,Duratex,8,8,55,Banheiro - Thiago Martins,Diego,14,
+03/01/2025,L-0003,MDF,6,Preto TX,Eucatex,19,17,108,Sala de Estar - Pedro Lima,Lucas,7,
+04/01/2025,L-0004,MDP,25,Rovere,Eucatex,9,8,55,Cozinha - Maria Souza,Rafael,22,Bom aproveitamento
+05/01/2025,L-0005,HDF,6,Cru,Duratex,26,26,140,Lavanderia - Ricardo Alves,Lucas,4,Pecas especiais
+08/01/2025,L-0006,MDF,12,Carvalho Dover,Arauco,11,10,74,Home Office - Ricardo Alves,Rafael,15,Excelente aproveitamento
+09/01/2025,L-0007,Compensado,12,Natural,Sudati,3,3,14,Banheiro - Gabriel Santos,Lucas,32,Lote completo
+14/01/2025,L-0008,MDP,18,Grigio,Berneck,14,13,82,Closet - Lucia Dias,Lucas,15,Pecas maiores
+18/01/2025,L-0009,MDF,12,Cinza Sagrado,Arauco,5,5,26,Area Gourmet - Maria Souza,Diego,13,Otimo resultado
+24/01/2025,L-0010,MDP,18,Grigio,Duratex,6,6,37,Home Theater - Marcos Ribeiro,Diego,17,Muitos recortes
+26/01/2025,L-0011,Compensado,18,Natural,Greenplac,3,2,9,Home Office - Ricardo Alves,Diego,27,Producao em serie
+28/01/2025,L-0012,HDF,6,Branco,Eucatex,15,15,92,Home Theater - Ricardo Alves,Lucas,5,
+02/02/2025,L-0013,Compensado,12,Natural,Sudati,7,6,29,Banheiro - Ricardo Alves,Diego,28,Pecas irregulares
+03/02/2025,L-0014,MDF,15,Freijo,Arauco,8,8,46,Closet - Joao Costa,Diego,15,Pecas maiores
+08/02/2025,L-0015,MDF,6,Noce Milano,Arauco,12,11,68,Quarto Casal - Bruno Neves,Carlos,5,Muitos recortes
+10/02/2025,L-0016,MDP,15,Rovere,Berneck,13,12,59,Area Gourmet - Bruno Neves,Diego,10,Otimo resultado
+12/02/2025,L-0017,MDF,18,Freijo,Arauco,11,9,52,Cozinha - Joao Costa,Carlos,11,Bom aproveitamento
+19/02/2025,L-0018,MDF,18,Cinza Sagrado,Eucatex,8,8,48,Home Office - Marcos Ribeiro,Rafael,11,
+20/02/2025,L-0019,MDP,25,Branco TX,Berneck,13,12,60,Escritorio - Ricardo Alves,Rafael,15,
+24/02/2025,L-0020,MDF,6,Freijo,Eucatex,20,18,146,Escritorio - Sandra Oliveira,Diego,5,Lote completo
+26/02/2025,L-0021,MDF,6,Carvalho Dover,Arauco,12,10,74,Cozinha - Thiago Martins,Carlos,10,Producao em serie
+27/02/2025,L-0022,MDF,6,Cinza Sagrado,Duratex,13,11,74,Escritorio - Bruno Neves,Carlos,8,
+03/03/2025,L-0023,MDF,15,Freijo,Eucatex,14,12,89,Home Office - Ana Silva,Carlos,10,Muito desperdicio
+07/03/2025,L-0024,MDF,15,Cinza Sagrado,Eucatex,9,9,54,Lavanderia - Bruno Neves,Carlos,17,Fundos padrao
+08/03/2025,L-0025,HDF,3,Cru,Eucatex,18,18,116,Quarto Casal - Marcos Ribeiro,Rafael,3,Muitos recortes
+09/03/2025,L-0026,MDF,12,Noce Milano,Eucatex,12,11,79,Home Theater - Marcos Ribeiro,Rafael,9,
+11/03/2025,L-0027,MDP,18,Branco TX,Berneck,10,10,63,Estante - Lucia Dias,Lucas,17,Otimo resultado
+14/03/2025,L-0028,MDP,15,Branco TX,Duratex,14,14,78,Lavanderia - Pedro Lima,Rafael,9,Pecas irregulares
+17/03/2025,L-0029,MDF,6,Preto TX,Duratex,20,19,169,Lavanderia - Joao Costa,Rafael,9,
+19/03/2025,L-0030,HDF,3,Branco,Eucatex,25,25,164,Quarto Infantil - Ana Silva,Diego,5,Bom aproveitamento
+21/03/2025,L-0031,MDF,6,Freijo,Duratex,19,18,124,Closet - Bruno Neves,Diego,10,Bom aproveitamento
+22/03/2025,L-0032,MDF,12,Freijo,Eucatex,9,8,52,Area Gourmet - Maria Souza,Lucas,20,Muito desperdicio
+25/03/2025,L-0033,MDF,6,Branco TX,Eucatex,13,11,80,Cozinha - Marcos Ribeiro,Rafael,9,Excelente aproveitamento
+26/03/2025,L-0034,MDP,25,Branco TX,Eucatex,12,12,69,Cozinha - Marcos Ribeiro,Rafael,21,Muito desperdicio
+03/04/2025,L-0035,MDP,25,Grigio,Eucatex,8,8,44,Home Theater - Sandra Oliveira,Diego,15,Corte normal
+04/04/2025,L-0036,MDP,18,Grigio,Duratex,9,8,51,Banheiro - Sandra Oliveira,Carlos,18,Pecas especiais
+07/04/2025,L-0037,MDF,18,Freijo,Arauco,7,5,26,Area Gourmet - Camila Rocha,Rafael,24,Pecas especiais
+10/04/2025,L-0038,MDP,15,Carvalho Hanover,Duratex,9,9,41,Area Gourmet - Bruno Neves,Lucas,12,Pecas pequenas
+11/04/2025,L-0039,MDP,15,Grigio,Eucatex,12,12,58,Home Office - Gabriel Santos,Rafael,20,
+12/04/2025,L-0040,HDF,3,Cru,Eucatex,22,22,150,Cozinha - Roberto Ferreira,Rafael,2,Formato especial
+14/04/2025,L-0041,MDF,18,Noce Milano,Arauco,13,12,84,Painel TV - Roberto Ferreira,Lucas,22,Corte normal
+20/04/2025,L-0042,Compensado,18,Virola Natural,Greenplac,7,6,25,Area Gourmet - Marcos Ribeiro,Rafael,30,Formato especial
+22/04/2025,L-0043,MDF,15,Cinza Sagrado,Eucatex,6,6,32,Home Theater - Thiago Martins,Lucas,20,
+24/04/2025,L-0044,Compensado,12,Virola Natural,Greenplac,3,3,13,Escritorio - Roberto Ferreira,Lucas,34,Pecas maiores
+27/04/2025,L-0045,HDF,3,Cru,Duratex,27,27,181,Banheiro - Paula Gomes,Carlos,8,Otimo resultado
+28/04/2025,L-0046,MDP,25,Rovere,Duratex,10,9,51,Closet - Camila Rocha,Rafael,15,Excelente aproveitamento
+01/05/2025,L-0047,MDF,18,Cinza Sagrado,Eucatex,11,10,55,Banheiro - Pedro Lima,Rafael,18,Excelente aproveitamento
+05/05/2025,L-0048,Compensado,18,Virola Natural,Greenplac,3,3,14,Home Office - Maria Souza,Lucas,33,Bom aproveitamento
+06/05/2025,L-0049,MDP,25,Branco TX,Berneck,8,8,38,Cozinha - Fernanda Melo,Rafael,19,
+13/05/2025,L-0050,MDP,15,Grigio,Duratex,7,7,48,Quarto Infantil - Paula Gomes,Lucas,10,Pecas maiores
+15/05/2025,L-0051,MDF,15,Carvalho Dover,Arauco,8,8,51,Sala de Estar - Gabriel Santos,Diego,15,
+18/05/2025,L-0052,MDP,18,Rovere,Berneck,12,11,51,Home Theater - Paula Gomes,Carlos,19,Excelente aproveitamento
+19/05/2025,L-0053,MDF,18,Freijo,Duratex,12,10,53,Estante - Paula Gomes,Diego,13,Producao em serie
+20/05/2025,L-0054,HDF,6,Cru,Duratex,22,22,146,Lavanderia - Marcos Ribeiro,Diego,2,Muitos recortes
+22/05/2025,L-0055,HDF,3,Cru,Duratex,25,25,134,Home Office - Ana Silva,Lucas,3,Corte padrao
+24/05/2025,L-0056,Compensado,18,Virola Natural,Greenplac,4,3,11,Quarto Casal - Fernanda Melo,Carlos,29,Pecas pequenas
+26/05/2025,L-0057,MDP,18,Grigio,Berneck,12,12,63,Closet - Sandra Oliveira,Carlos,18,Corte padrao
+27/05/2025,L-0058,MDP,25,Nogueira,Eucatex,13,12,63,Sala de Estar - Paula Gomes,Lucas,12,
+04/06/2025,L-0059,MDP,15,Carvalho Hanover,Eucatex,10,10,62,Quarto Infantil - Paula Gomes,Rafael,11,Muitos recortes
+06/06/2025,L-0060,MDF,6,Carvalho Dover,Eucatex,12,10,68,Quarto Casal - Camila Rocha,Rafael,7,Formato especial
+07/06/2025,L-0061,MDF,6,Preto TX,Eucatex,19,19,146,Escritorio - Maria Souza,Carlos,9,
+09/06/2025,L-0062,MDF,15,Branco TX,Duratex,14,12,66,Painel TV - Juliana Pereira,Carlos,24,Pecas grandes
+11/06/2025,L-0063,MDP,18,Nogueira,Duratex,6,6,41,Painel TV - Sandra Oliveira,Diego,12,Pecas especiais
+16/06/2025,L-0064,MDF,6,Cinza Sagrado,Duratex,12,11,80,Quarto Infantil - Maria Souza,Rafael,8,Pecas pequenas
+17/06/2025,L-0065,MDF,12,Preto TX,Arauco,15,15,109,Quarto Casal - Roberto Ferreira,Lucas,14,Otimo resultado
+18/06/2025,L-0066,MDF,12,Noce Milano,Duratex,5,5,34,Quarto Casal - Lucia Dias,Lucas,17,Formato especial
+21/06/2025,L-0067,MDF,15,Noce Milano,Eucatex,6,4,20,Home Office - Camila Rocha,Lucas,21,Excelente aproveitamento
+23/06/2025,L-0068,MDP,15,Branco TX,Berneck,6,6,34,Painel TV - Marcos Ribeiro,Carlos,19,Formato especial
+24/06/2025,L-0069,HDF,3,Cru,Duratex,28,28,158,Lavanderia - Camila Rocha,Carlos,7,
+28/06/2025,L-0070,HDF,6,Cru,Duratex,16,16,94,Area Gourmet - Gabriel Santos,Lucas,4,Muitos recortes
+01/07/2025,L-0071,MDP,25,Grigio,Duratex,10,10,68,Closet - Pedro Lima,Diego,16,Pecas pequenas
+02/07/2025,L-0072,MDF,12,Noce Milano,Duratex,11,11,61,Home Theater - Ana Silva,Lucas,11,Formato especial
+04/07/2025,L-0073,HDF,3,Cru,Duratex,30,30,164,Home Office - Juliana Pereira,Lucas,6,
+07/07/2025,L-0074,MDF,12,Branco TX,Eucatex,13,12,84,Area Gourmet - Thiago Martins,Diego,17,Pecas irregulares
+13/07/2025,L-0075,Compensado,18,Natural,Greenplac,7,6,23,Lavanderia - Paula Gomes,Diego,32,Lote completo
+14/07/2025,L-0076,HDF,3,Cru,Eucatex,30,30,192,Lavanderia - Pedro Lima,Diego,8,Pecas grandes
+15/07/2025,L-0077,MDF,12,Freijo,Duratex,12,12,75,Quarto Casal - Thiago Martins,Rafael,22,
+17/07/2025,L-0078,Compensado,18,Natural,Sudati,7,6,25,Lavanderia - Marcos Ribeiro,Diego,32,Muito desperdicio
+18/07/2025,L-0079,MDF,15,Noce Milano,Arauco,6,6,39,Painel TV - Pedro Lima,Diego,17,Bom aproveitamento
+22/07/2025,L-0080,Compensado,18,Natural,Sudati,5,5,15,Sala de Estar - Ricardo Alves,Diego,23,Pecas irregulares
+25/07/2025,L-0081,MDF,18,Cinza Sagrado,Duratex,7,7,45,Quarto Infantil - Ricardo Alves,Diego,20,Fundos padrao
+01/08/2025,L-0082,HDF,3,Branco,Duratex,28,28,178,Estante - Sandra Oliveira,Lucas,5,Pecas irregulares
+05/08/2025,L-0083,MDF,18,Freijo,Duratex,10,8,45,Painel TV - Gabriel Santos,Rafael,17,
+08/08/2025,L-0084,HDF,6,Cru,Eucatex,22,22,136,Banheiro - Camila Rocha,Carlos,4,Bom aproveitamento
+09/08/2025,L-0085,MDP,25,Nogueira,Duratex,6,5,32,Estante - Joao Costa,Rafael,9,Pecas maiores
+15/08/2025,L-0086,MDF,12,Branco TX,Eucatex,8,8,55,Quarto Infantil - Juliana Pereira,Lucas,19,Producao em serie
+16/08/2025,L-0087,MDP,18,Carvalho Hanover,Eucatex,11,11,62,Sala de Estar - Sandra Oliveira,Diego,10,
+19/08/2025,L-0088,Compensado,12,Virola Natural,Greenplac,5,5,19,Cozinha - Gabriel Santos,Carlos,30,Pecas maiores
+20/08/2025,L-0089,MDF,15,Branco TX,Arauco,14,12,69,Cozinha - Camila Rocha,Rafael,15,Pecas especiais
+21/08/2025,L-0090,MDF,18,Noce Milano,Eucatex,5,5,28,Quarto Infantil - Joao Costa,Diego,23,
+22/08/2025,L-0091,MDF,12,Freijo,Eucatex,7,6,39,Painel TV - Juliana Pereira,Lucas,23,Fundos padrao
+23/08/2025,L-0092,MDP,18,Branco TX,Duratex,13,13,86,Home Office - Fernanda Melo,Lucas,10,Corte padrao
+28/08/2025,L-0093,MDP,25,Nogueira,Berneck,7,6,28,Closet - Marcos Ribeiro,Diego,12,Pecas especiais
+01/09/2025,L-0094,Compensado,12,Virola Natural,Sudati,4,3,13,Quarto Infantil - Marcos Ribeiro,Carlos,25,
+02/09/2025,L-0095,MDF,15,Cinza Sagrado,Arauco,9,9,47,Quarto Infantil - Ana Silva,Lucas,21,Producao em serie
+03/09/2025,L-0096,MDF,6,Freijo,Eucatex,20,20,176,Home Office - Joao Costa,Lucas,4,Producao em serie
+05/09/2025,L-0097,MDF,6,Branco TX,Eucatex,13,12,97,Estante - Juliana Pereira,Diego,7,
+07/09/2025,L-0098,HDF,6,Branco,Eucatex,25,25,144,Painel TV - Marcos Ribeiro,Rafael,6,Producao em serie
+08/09/2025,L-0099,MDF,18,Branco TX,Arauco,12,12,72,Escritorio - Fernanda Melo,Carlos,22,Pecas grandes
+11/09/2025,L-0100,MDP,15,Nogueira,Eucatex,8,7,32,Lavanderia - Marcos Ribeiro,Lucas,22,
